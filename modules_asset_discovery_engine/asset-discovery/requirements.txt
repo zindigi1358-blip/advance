@@ -1,0 +1,4 @@
+# Asset Discovery Engine — Dependencies
+aiohttp==3.9.5
+aiofiles==23.2.1
+dnspython==2.6.1
