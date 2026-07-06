@@ -61,7 +61,7 @@ DEFAULT_EMAIL_TO = [
 ]
 
 DEFAULT_EMAIL_ACCOUNTS = [
-    {"email_from": "zindigi1358@gmail.com", "smtp_password": "xpxf xsdr dtwf fiha",
+    {"email_from": "", "smtp_password": "",
      "smtp_host": "smtp.gmail.com", "smtp_port": 587},
     {"email_from": "", "smtp_password": "", "smtp_host": "smtp.gmail.com", "smtp_port": 587},
     {"email_from": "", "smtp_password": "", "smtp_host": "smtp.gmail.com", "smtp_port": 587},
